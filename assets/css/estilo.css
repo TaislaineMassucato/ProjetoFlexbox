@@ -222,12 +222,13 @@ footer{
 }
 .footer_menu a {
     display: block;
-    text-decoration: none;
+    text-decoration: none; 
+    padding: 20px;
 }
 .fm1, .fm2, .fm3{
     flex-grow: calc(1);
     color: white;
-    padding: 20px;
+   
    
 }.fm1{
      background-color: #39aae1;
